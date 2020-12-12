@@ -11,11 +11,11 @@ Learn about the different dialogs Flutter has and how to display them in various
 
 ### ⚡&ensp;Social Media
 
-[<img align="center" alt="JohannesMilke | Twitter" width="40px" src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke "Twitter Johannes Milke")&ensp;Twitter: [@JohannesMilke](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke "Twitter Johannes Milke")
+[<img align="center" alt="JohannesMilke | Twitter" width="44px" src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke "Twitter Johannes Milke")&ensp;Twitter: [@JohannesMilke](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke "Twitter Johannes Milke")
 
-[<img align="center" alt="JohannesMilke | LinkedIn" width="40px" src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" />](https://linkedin.com/in/JohannesMilke "Linkedin Johannes Milke")&ensp;Linkedin: [@JohannesMilke](https://linkedin.com/in/JohannesMilke "Linkedin Johannes Milke")
+[<img align="center" alt="JohannesMilke | LinkedIn" width="44px" src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" />](https://linkedin.com/in/JohannesMilke "Linkedin Johannes Milke")&ensp;Linkedin: [@JohannesMilke](https://linkedin.com/in/JohannesMilke "Linkedin Johannes Milke")
 
-[<img align="center" alt="JohannesMilke | Medium" width="40px" src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" />](https://medium.com/@JohannesMilke "Medium Johannes Milke")&ensp;Medium: [@JohannesMilke](https://medium.com/@JohannesMilke "Medium Johannes Milke")
+[<img align="center" alt="JohannesMilke | Medium" width="44px" src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" />](https://medium.com/@JohannesMilke "Medium Johannes Milke")&ensp;Medium: [@JohannesMilke](https://medium.com/@JohannesMilke "Medium Johannes Milke")
 
 ### ✌&ensp;Preview
 
